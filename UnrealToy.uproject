@@ -3,6 +3,16 @@
 	"EngineAssociation": "{FF4AE2A8-479A-1075-184A-16A639AEDFDA}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "UnrealToy",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Bridge",
