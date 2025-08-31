@@ -1,10 +1,6 @@
 {
 	"FileVersion": 3,
-<<<<<<< HEAD
 	"EngineAssociation": "{FF4AE2A8-479A-1075-184A-16A639AEDFDA}",
-=======
-	"EngineAssociation": "{0B6299FA-4D1A-64BC-C4FB-199333410E6F}",
->>>>>>> f2973fb22d113fabfa31a38890b12d38c7e44d20
 	"Category": "",
 	"Description": "",
 	"Modules": [
