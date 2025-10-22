@@ -8,7 +8,7 @@ public class UnrealToyTarget : TargetRules
 	public UnrealToyTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V4;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
 
 		ExtraModuleNames.AddRange( new string[] { "UnrealToy" , "TP_FirstPerson"} );
 	}

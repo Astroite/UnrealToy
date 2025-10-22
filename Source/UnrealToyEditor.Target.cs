@@ -8,7 +8,7 @@ public class UnrealToyEditorTarget : TargetRules
 	public UnrealToyEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V4;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
 
 		ExtraModuleNames.AddRange( new string[] { "UnrealToy" } );
 	}
